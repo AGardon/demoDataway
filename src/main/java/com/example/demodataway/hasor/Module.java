@@ -15,8 +15,7 @@ import javax.sql.DataSource;
  * @description Module
  * @date 2022/6/2 16:10
  * @phone 18318436514
- * @email g2603494062@gmail.com
- * @github https://github.com/AGarden
+ * @email w2603494062@gmail.com
  */
 @DimModule
 @Component
